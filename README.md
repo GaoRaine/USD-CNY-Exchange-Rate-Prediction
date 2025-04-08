@@ -1,1 +1,5 @@
 # USD-CNY-Exchange-Rate-Prediction
+The accurate prediction of exchange rates is important for effective decision-making in international finance, trade policy, and investment strategy. In particular, the onshore USD-CNY exchange rate plays a pivotal role in shaping global economic dynamics since it influences trade competitiveness, capital flow management, and monetary policy. The onshore RMB remains sensitive to both domestic fundamentals and global economic pressures. Periods of heightened uncertainty—such as during the U.S.-China trade tensions and the COVID-19 pandemic—have led to increased exchange rate volatility and policy responses. For multinational businesses, financial institutions, and policymakers, improved forecasts of the onshore USD-CNY exchange rate can reduce uncertainty, support more informed hedging and investment strategies, and contribute to more efficient resource allocation in both domestic and international markets.
+
+Can find the data used under the data folder.
+Code is available under the code folder
